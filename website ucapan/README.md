@@ -1,2 +1,0 @@
-# ucapan
-web
